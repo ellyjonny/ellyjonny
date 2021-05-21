@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ellyjonny
-- 👀 I’m interested in software development and data science.
+- 👀 I’m interested in Frutter🕊 and Python for data science.
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on any project of software development
 - 📫 Reach me via ellyjonny30@gmail.com 🚀
